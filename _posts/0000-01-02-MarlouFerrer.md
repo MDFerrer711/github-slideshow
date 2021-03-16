@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"Float ilike gatas, string iwant milo" - The assassin 
 Use the left arrow to go back!
